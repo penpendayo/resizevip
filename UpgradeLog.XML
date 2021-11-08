@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsFormsApplication1">
+</Property><Property Name="ソリューション ファイル" Value="D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\WindowsFormsApplication1.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\WindowsFormsApplication1.suo">
+</Property><Property Name="Date" Value="2012年12月1日">
+</Property><Property Name="Time" Value="17:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication1.sln" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication1.suo" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="プロジェクト ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\WindowsFormsApplication1.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj.user" Description="プロジェクト ユーザー ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\WindowsFormsApplication1.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.Designer.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form1.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form2.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form2.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form2.Designer.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form2.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Program.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\AssemblyInfo.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Resources.Designer.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Settings.Designer.cs" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Settings.settings" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\sss.ico" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\sss.ico としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form1.resx" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Form2.resx" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Form2.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\Properties\Resources.resx" Description="ファイルは正常に D:\Dropbox\Resize VIP ソース\2012 03 04\WindowsFormsApplication1\Backup\WindowsFormsApplication1\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsFormsApplication1.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsFormsApplication1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormsApplication1" Source="WindowsFormsApplication1\WindowsFormsApplication1.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

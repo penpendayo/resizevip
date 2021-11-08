@@ -1,0 +1,17 @@
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\yamaa\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\yamaa\Documents\Visual Studio 2008\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
